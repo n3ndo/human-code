@@ -33,3 +33,9 @@ PROBLEMA: Preparare le lasagne alla bolognese
 15.b -: Aspettiamo;
 17 -raffreddare per 15 minuti;
 18 - Servire la lasagna;
+
+
+PREPARARE LE LASAGNE ALLA BOLOGNESE
+
+L’ingrediente segreto:
+Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna! Ho studiato alla perfezione tutti gli ingredienti, le quantità, i tempi e modalità di cottura, ma alla fine le lasagne della nonna sono sempre di un altro livello!
